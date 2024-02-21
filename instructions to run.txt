@@ -1,0 +1,18 @@
+remember to run the startMongoDB bat file first ("C:\Users\rgack\Documents\myapp\startMongoDB.bat", run as administrator)
+
+then run this command in command prompt to connect the database: node db.js
+
+then to run the app.js page, type nodemon app.js. The app.js file is what's running at port 3000, it's for the backend
+
+
+Might have to use npm run ng <command> for angular
+
+to add parameters, need some double dashes as follows
+
+You can pass in additional parameters to the ng command via npm run ng serve -- --port=12345. Note the two separate sets of dashes
+
+in the myapp/AngularApp folder, write the following to start the frontend at at localhost:4200
+ng serve --open
+
+
+employee component html
