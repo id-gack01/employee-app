@@ -36,6 +36,7 @@ cd AngularApp in the tsconfig.json file, add " "strictPropertyInitialization": f
 ng generate component [componentname] generates a component, componentname, which will be employee this time so..
 
 ng g component employee (g is short for generate)
+now one can work on the components 
 
 ng serve --open
 
