@@ -23,6 +23,7 @@ save that file somewhere, and right click run as administrator to start it, then
 so now
 nodemon db.js will start the database
 
+ ----- FRONT END -------
 to open the angular app https://angular.io/guide/setup-local
 google how to install angular
 npm install -g @angular/cli (to install angular globably)
