@@ -1,4 +1,4 @@
-remember to run the startMongoDB bat file first ("C:\Users\rgack\Documents\myapp\startMongoDB.bat", run as administrator)
+remember to run the startMongoDB bat file first 
 
 then run this command in command prompt to connect the database: node db.js
 
