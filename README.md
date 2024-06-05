@@ -44,3 +44,5 @@ now one can work on the components
 *ng serve --open*
 
 this starts the front end
+
+RIP Heroku
