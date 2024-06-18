@@ -19,7 +19,8 @@ mongod.exe --dbpath C:\Users\[userName]\Documents\mongo-data
 :pause
 ____
 save that file somewhere, and right click run as administrator to start it, then start mongodb
-so now
+,so now
+
 *node db.js* will start the database
 
 After that, start the app itself using the nodemon package with...
