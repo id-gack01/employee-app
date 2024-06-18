@@ -1,5 +1,9 @@
 # employee-app
 
+Gotta use git clone to grab the code
+
+*git clone https://github.com/id-gack01/employee-app.git*
+
 npm init inside the folder where you store the app so the node modules set up, just click through and use the default settings (or set as thou wilt)
 
 to install the needed packages
