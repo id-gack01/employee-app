@@ -1,6 +1,6 @@
 # employee-app
 
-npm init inside the folder where you store the app so the node modules set up, just click through and set procedures as thou wilt
+npm init inside the folder where you store the app so the node modules set up, just click through and use the default settings (or set as thou wilt)
 
 to install the needed packages
 *npm i nodemon  rxjs cors express mongoose*
