@@ -19,7 +19,7 @@ the pause just waits for a click before the program shuts)
 
 ____
 cd C:\Program Files\MongoDB\Server\5.0\bin
-mongod.exe --dbpath C:\Users\[userName]\Documents\mongo-data
+mongod.exe --dbpath C:\Users\ [userName] \Documents\mongo-data
 :pause
 ____
 save that file somewhere, and right click run as administrator to start it, then start mongodb
