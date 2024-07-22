@@ -37,7 +37,7 @@ export class EmployeeComponent {
    onSubmit(form: NgForm){
     // console.log(employeeForm + "is entered");
     // form.value holds the values of the form
-    //console.log(form.value);  so form.value is fucking empty
+    //console.log(form.value);  so form.value is  ing empty
     if (form.value._id ==""){
     this.employeeService.postEmployee(form.value).subscribe((res) => {
       this.resetForm(form);
@@ -98,7 +98,7 @@ export class EmployeeComponent {
 
 // Property 'onSubmit' does not exist on type 'EmployeeComponent'.
 
-// for some reason you have to hit reset for the form to fucking work now
+// for some reason you have to hit reset for the form to  ing work now
 // so I gotta fix that ngOnInit issue
 // i have to hit refresh for it to actually start off the way it's intended for some reason. 
 // the problem is that I had and  if (form){form.reset} {fill up the form} when the if needed no {} to do the program
