@@ -31,7 +31,7 @@ export class EmployeeComponent {
   }
   
 
-  //potentially i have to use this.employeeService.selectedEmployee, but that youtube comment might be full of shit
+  //potentially i have to use this.employeeService.selectedEmployee, but that youtube comment might be full of s--t
   //so the parameter name comes first, followed by the type, in this case, it's a Form interface. 
   // for on submit, I must insert a new employee into the mongodb database using the post request in the employeecontroller (nodeJS api)
    onSubmit(form: NgForm){
